@@ -1,0 +1,31 @@
+title: "Dr. Mehdi Barati"
+description: "Information Science Researcher | Digital Transformation & Healthcare Management"
+baseurl: ""
+url: "https://mehdibarati.github.io"
+theme: null
+markdown: kramdown
+
+navigation:
+  - title: Home
+    url: /
+  - title: CV
+    url: /cv.html
+  - title: Research
+    url: /research.html
+  - title: Teaching
+    url: /teaching.html
+  - title: Experience
+    url: /experience.html
+  - title: Service
+    url: /service.html
+  - title: Contact
+    url: /contact.html
+
+author:
+  name: "Dr. Mehdi Barati"
+  email: "mbarati@albany.edu"
+  orcid: "https://orcid.org/0000-0001-5271-2673"
+  scholar: "<link to Google Scholar>"
+
+primary_color: "#0b4f8c"
+accent_color: "#0f73b7"

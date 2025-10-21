@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description }}">
+    <link rel="stylesheet" href="/assets/style.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+        <p class="tagline">{{ site.description }}</p>
+        <nav class="site-nav">
+          {% for item in site.navigation %}
+            <a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <aside class="sidebar">
+        <div class="profile">
+          <img src="/assets/profile.svg" alt="Profile" onerror="this.style.display='none'">
+          <h3>{{ site.author.name }}</h3>
+          <p>Information Science • Digital Transformation • Healthcare</p>
+          <p class="contact-small">Email: <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+          <p class="contact-small">ORCID: <a href="{{ site.author.orcid }}">{{ site.author.orcid }}</a></p>
+          <p><a class="btn" href="/cv.html" target="_self">View CV</a></p>
+        </div>
+      </aside>
+
+      <section class="content">
+        {{ content }}
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; 2025 Dr. Mehdi Barati — Built with Jekyll and hosted on GitHub Pages.</p>
+      </div>
+    </footer>
+  </body>
+</html>
