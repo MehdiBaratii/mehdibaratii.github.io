@@ -148,9 +148,4 @@ Peer review:
 - Web Technologies: HTML, CSS, JavaScript
 - Project Management Tools: experience with digital project management and performance monitoring systems
 
-**References**
-
-Benjamin Yankson, Assistant Professor — byankson@albany.edu
-Unal Tatar, Assistant Professor — utatar@albany.edu
-Brandon Behlendorf, Assistant Professor — bbehlendorf@albany.edu
 
