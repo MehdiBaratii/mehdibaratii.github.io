@@ -2,4 +2,4 @@
 
 This ZIP contains a complete multi-page Jekyll site with the full CV content included in `cv.md`.
 
-The site will be available at https://mehdibarati.github.io
+The site will be available at https://mehdibaratii.github.io
