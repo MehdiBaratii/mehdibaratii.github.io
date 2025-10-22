@@ -1,7 +1,7 @@
-title: "Dr. Mehdi Barati"
+title: "Mehdi Barati"
 description: "Information Science Researcher | Digital Transformation & Healthcare Management"
 baseurl: ""
-url: "https://mehdibarati.github.io"
+url: "https://mehdibaratii.github.io"
 theme: null
 markdown: kramdown
 
@@ -22,7 +22,8 @@ navigation:
     url: /contact.html
 
 author:
-  name: "Dr. Mehdi Barati"
+  name: "Mehdi Barati"
+  personal_email: "mehdibarati22@gmail.com"
   email: "mbarati@albany.edu"
   orcid: "https://orcid.org/0000-0001-5271-2673"
   scholar: "<https://scholar.google.com/citations?user=Ra3TodoAAAAJ&hl=en>"

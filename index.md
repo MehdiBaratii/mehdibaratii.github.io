@@ -6,7 +6,7 @@ excerpt: "Information science researcher exploring digital transformation of wor
 
 ## About
 
-Dr. Mehdi Barati is an information science researcher focusing on digital transformation of work, algorithmic management, electronic monitoring, and healthcare technology management.
+Mehdi Barati is an information science researcher focusing on digital transformation of work, algorithmic management, electronic monitoring, and healthcare technology management.
 
 His work combines qualitative and quantitative methods to understand how workplace technologies shape organisational outcomes and employee experiences.
 
