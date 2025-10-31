@@ -1,3 +1,9 @@
+---
+layout: default
+title: CV
+excerpt: "Full academic CV: education, research, experience, teaching, service, skills, and awards."
+---
+
 # Dr. Mehdi Barati
 
 **Business Information Systems | Cybersecurity | Databases | Analytics**
@@ -12,7 +18,24 @@
 
 ---
 
-## ACADEMIC PROFILE
+## On This Page
+
+- [Academic Profile](#academic-profile)
+- [Education](#education)
+- [Research Expertise](#research-expertise)
+  - [Applied Cybersecurity](#applied-cybersecurity)
+  - [Database Systems & Security](#database-systems--security)
+  - [Applied Analytics & Business Intelligence](#applied-analytics--business-intelligence)
+- [Professional Experience](#professional-experience)
+- [Academic Service & Professional Engagement](#academic-service--professional-engagement)
+- [Research Impact & Engagement](#research-impact--engagement)
+- [Technical Skills](#technical-skills)
+- [Awards & Recognition](#awards--recognition)
+- [Languages](#languages)
+
+---
+
+## ACADEMIC PROFILE {#academic-profile}
 
 Information systems researcher specializing in **cybersecurity risk management**, **organizational database systems**, and **applied business analytics**. My research examines how organizations can effectively implement and manage digital technologies while maintaining security, supporting operational efficiency, and upholding ethical principles. With extensive higher education teaching experience delivering technical courses including **database management**, **cybersecurity**, and **web technologies**, combined with industry expertise in operations and project management, I bridge academic rigor with practical organizational insights.
 
@@ -22,7 +45,7 @@ Information systems researcher specializing in **cybersecurity risk management**
 
 ---
 
-## EDUCATION
+## EDUCATION {#education}
 
 **PhD in Information Science** | State University of New York (SUNY) at Albany, USA  
 *2019 – 2025 (Expected)*
@@ -46,19 +69,19 @@ Iran University of Science & Technology, Tehran, Iran | *2003 – 2008*
 
 ---
 
-## RESEARCH EXPERTISE
+## RESEARCH EXPERTISE {#research-expertise}
 
-### Applied Cybersecurity
+### Applied Cybersecurity {#applied-cybersecurity}
 
 My research addresses organizational security and risk management with particular focus on healthcare information system security, predictive modeling of cybersecurity vulnerabilities, and security governance frameworks for business organizations. This work examines risk assessment methodologies and organizational security culture, contributing to understanding of how organizations can effectively manage security challenges in digital environments.
 
 **Key Publications:** Healthcare data breaches in integrated EHR systems (*Journal of Cybersecurity and Privacy*, 2025, Q1) | Predicting data breach occurrence using machine learning (*IJIM Data Insights*, 2022, Q1) | Organizational cybersecurity success factors (*Advances in Security, Networks, and IoT*, 2021)
 
-### Database Systems & Security
+### Database Systems & Security {#database-systems-security}
 
 My expertise in database management encompasses database design, normalization, and entity-relationship modeling, SQL programming and query optimization, database security mechanisms and access control, data organization and retrieval systems, and privacy-preserving database design with GDPR compliance considerations. Through teaching database management courses and research on data breaches, I have developed comprehensive understanding of database vulnerabilities, secure database architectures for sensitive organizational data, database usability and information architecture, and data quality and governance challenges in organizational contexts.
 
-### Applied Analytics & Business Intelligence
+### Applied Analytics & Business Intelligence {#applied-analytics-business-intelligence}
 
 My analytical expertise spans the complete analytics pipeline from data collection through interpretation and visualization. I am proficient in predictive modeling and machine learning (classification, regression, ensemble methods), large-scale data analysis with advanced statistical modeling (including analysis of 28,000+ organizational records), computational text analysis (topic modeling, sentiment analysis, natural language processing), and data visualization and dashboard design for organizational decision-making. This work includes extensive survey research and quantitative analysis applied to business and organizational contexts.
 
@@ -223,7 +246,7 @@ Conducted business analyses using statistical modeling and data visualization to
 
 ---
 
-## ACADEMIC SERVICE & PROFESSIONAL ENGAGEMENT
+## ACADEMIC SERVICE & PROFESSIONAL ENGAGEMENT {#academic-service-professional-engagement}
 
 **Graduate Assistant for Faculty Recruitment & Programme Evaluation** | SUNY at Albany | *2023*  
 Participated in faculty hiring committees contributing to candidate evaluation and selection. Contributed to curriculum assessment and programme development for interdisciplinary programmes, gaining experience in academic governance, quality assurance processes, and strategic planning.
@@ -238,13 +261,13 @@ Journal Review: *Journal of Management Control* (2024), *New Media & Society* (2
 
 ---
 
-## RESEARCH IMPACT & ENGAGEMENT
+## RESEARCH IMPACT & ENGAGEMENT {#research-impact-engagement}
 
 My research demonstrates both academic and practical impact. Eight published peer-reviewed articles in high-quality international journals with growing citation record, active research pipeline with three manuscripts under review in ABS 3-ranked journals, and international conference presentations at BAM, AoM, COMIT, and ASIS&T demonstrate academic influence. The practical impact includes research informing healthcare organizational security strategies, evidence-based guidance for ethical technology implementation in organizations, recommendations for balancing data transparency with privacy protection, and insights for technology implementation supporting employee autonomy and wellbeing. I am committed to translating research into practical impact through industry partnerships, bridging academic research with organizational practice through my industry background, engagement with business, healthcare, and public sector organizations, and policy influence through evidence-based research on technology regulation.
 
 ---
 
-## TECHNICAL SKILLS
+## TECHNICAL SKILLS {#technical-skills}
 
 **Data Analysis & Statistical Software:** R (tidyverse, ggplot2, statistical modeling), Python (pandas, numpy, scikit-learn), SPSS | Advanced statistical analysis, regression, machine learning, predictive modeling, text mining, topic modeling
 
@@ -258,13 +281,13 @@ My research demonstrates both academic and practical impact. Eight published pee
 
 ---
 
-## AWARDS & RECOGNITION
+## AWARDS & RECOGNITION {#awards-recognition}
 
 Outstanding Teaching Evaluations: Consistently excellent student ratings (4.6-4.9/5) across 7 semesters | Competitive PhD Funding: Full graduate assistantship, SUNY Albany (2019-2025) | Conference Travel Grants: Multiple awards for international conference presentations | Research Recognition: Publications in top-tier journals (Q1, ABS 3-ranked outlets)
 
 ---
 
-## LANGUAGES
+## LANGUAGES {#languages}
 
 - **English:** Fluent (academic and professional proficiency)
 - **Persian (Farsi):** Native speaker
