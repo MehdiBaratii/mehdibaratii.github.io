@@ -26,3 +26,9 @@ He has taught and developed courses in databases, cybersecurity, analytics, and 
 Selected publications (see Research for details):
 - Healthcare data breaches in integrated EHR systems — Journal of Cybersecurity and Privacy (Q1)
 - Predicting breach occurrence with machine learning — IJIM Data Insights (Q1)
+
+## News & Updates
+
+- 2025 — New article on healthcare data breach risks published in a Q1 venue.
+- 2025 — Presented mixed‑methods findings on workplace monitoring at a major management conference.
+- 2024 — Released teaching materials for Applied Cybersecurity and Database Management modules.

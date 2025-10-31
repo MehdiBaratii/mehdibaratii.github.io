@@ -15,6 +15,8 @@ excerpt: "Publications, working papers, and research projects."
 - Applied analytics for decision support: predictive modelling, NLP, text mining, and visualisation
 
 ### Selected publications
+The following highlights representative peer‑reviewed outputs. See Google Scholar for full bibliographic details and citation data.
+
 - Healthcare data breaches in integrated EHR systems — Journal of Cybersecurity and Privacy (Q1)
 - Predicting data breach occurrence using machine learning — IJIM Data Insights (Q1)
 - Organisational cybersecurity success factors — Advances in Security, Networks, and IoT
@@ -27,3 +29,5 @@ excerpt: "Publications, working papers, and research projects."
 ### Profiles and full list
 - Google Scholar: {{ site.author.scholar }}
 - ORCID: {{ site.author.orcid }}
+
+If you’d like, I can replace the list above with the exact titles and venues from your Google Scholar profile or from the CV.
