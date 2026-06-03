@@ -1,23 +1,24 @@
 ---
 layout: default
 title: Experience
-excerpt: "Professional experience in operations, analytics, and project management."
+excerpt: "Industry experience in information systems management, digital transformation, and project control."
 ---
 
 ## Professional Experience
 
-### Project Control Officer / Operations Manager — Amount Sepehr
-2010 — 2019 | Tehran, Iran
+Before my doctorate I spent over a decade in industry, managing information systems and technology-led projects. This practice grounds my research and teaching in how organisations actually adopt and run technology.
 
-- Led operations and project control for multi‑site initiatives; coordinated timelines, budgets, and resource allocation across cross‑functional teams.
-- Implemented data‑driven dashboards for KPI tracking and forecasting, improving schedule adherence and cost visibility.
-- Standardised processes, documentation, and reporting to strengthen governance and compliance with organisational policies.
-- Liaised between leadership, engineering, vendors, and public stakeholders to resolve constraints and maintain delivery momentum.
+### Information Systems Manager / Project Control Officer — Amount Sepehr
+2010 — 2019 · Tehran, Iran
 
-### Operations and Business Analyst — Sahel Consultants
-2008 — 2010 | Tehran, Iran
+- Managed information systems and IT infrastructure for industrial projects valued at over $5 million, including ERP implementation and process digitisation.
+- Led cross-functional digital transformation initiatives, translating business requirements into working systems and configurations.
+- Built reporting dashboards and data workflows for KPI tracking, forecasting, and cost control.
+- Standardised processes, documentation, and governance across concurrent projects, coordinating leadership, engineering, vendors, and public stakeholders.
 
-- Performed quantitative analyses, statistical modelling, and scenario planning to inform strategic decisions.
-- Designed and delivered analytical reports and visualisations for senior stakeholders and partner organisations.
-- Supported multi‑stakeholder urban and infrastructure projects; facilitated coordination between engineering teams and government agencies.
-- Developed forecasting and performance frameworks now reflected in research on organisational information systems.
+### Transportation Systems Analyst — Sahel Consultants
+2008 — 2010 · Tehran, Iran
+
+- Performed quantitative analysis, statistical modelling, and scenario planning to inform infrastructure planning decisions.
+- Designed analytical reports and visualisations for senior stakeholders and partner organisations.
+- Supported multi-stakeholder urban and infrastructure projects, coordinating engineering teams and government agencies.

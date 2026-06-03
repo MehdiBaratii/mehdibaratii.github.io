@@ -1,5 +1,5 @@
 title: "Mehdi Barati"
-description: "Information Science Researcher | Digital Transformation & Healthcare Management"
+description: "AI and digital transformation in organisations · information systems & data analytics"
 baseurl: ""
 url: "https://mehdibaratii.github.io"
 theme: null
@@ -28,5 +28,5 @@ author:
   orcid: "https://orcid.org/0000-0002-3447-4197"
   scholar: "https://scholar.google.com/citations?user=Ra3TodoAAAAJ&hl=en"
 
-primary_color: "#0b4f8c"
-accent_color: "#0f73b7"
+primary_color: "#1a1a1a"
+accent_color: "#2f5d7c"
