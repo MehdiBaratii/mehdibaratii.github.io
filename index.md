@@ -21,7 +21,7 @@ A central thread of my current research is **AI in organisations** — algorithm
 ## Selected work
 
 - Effects of algorithmic control on power and inequality in organisations — *Journal of Management Control* (ABS 2)
-- The gender gap in generative AI use among public-sector workers — *working paper, Government Information Quarterly*
+- The gender gap in generative AI use among public-sector workers — *under review, Public Management Review* (ABS 4)
 - Predicting data breaches with machine learning — *IJIM Data Insights* (Q1)
 - The rise of hacking in integrated electronic health-record systems — *Journal of Cybersecurity and Privacy* (Q1)
 
@@ -29,7 +29,7 @@ A central thread of my current research is **AI in organisations** — algorithm
 
 ## News
 
-- **2026** — Working paper with B. Ansari on the gender gap in generative AI use among public-sector workers, drawing on the European Working Conditions Survey 2024, in preparation for *Government Information Quarterly*.
+- **2026** — Paper with B. Ansari on the gender gap in generative AI use among public-sector workers, drawing on the European Working Conditions Survey 2024, under review at *Public Management Review* (ABS 4).
 - **2025** — Presented a hierarchical affordance framework for employee monitoring technologies at the British Academy of Management conference (University of Kent).
 - **2025** — Article on the rise of hacking in integrated EHR systems published in the *Journal of Cybersecurity and Privacy* (Q1).
 - **2024** — Presented findings on algorithmic management and employee participation (European Company Survey 2019) at the British Academy of Management conference (Nottingham).

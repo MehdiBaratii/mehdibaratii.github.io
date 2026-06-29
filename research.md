@@ -23,7 +23,7 @@ My research examines how organisations adopt, implement, and govern AI and digit
 - Ansari, B., Barati, M. & Yuan, M. (2025). Underrepresented populations on public health data dashboards. *Journal of Public Health Management and Practice* (Q2).
 
 ### Working papers
-- Ansari, B. & Barati, M. The gender gap in generative AI use among public-sector workers across Europe (in preparation, *Government Information Quarterly*) — analysing the European Working Conditions Survey 2024.
+- Ansari, B. & Barati, M. The gender gap in generative AI use among public-sector workers across Europe (under review, *Public Management Review*, ABS 4) — analysing the European Working Conditions Survey 2024.
 - Barati, M. & Yankson, B. From surveillance to strategy: a hierarchical affordance framework for employee electronic monitoring technologies (under review, *Cognition, Technology and Work*).
 - Barati, M., Yankson, B. & Ansari, B. The surveillance dialectic: how workplace monitoring generates ongoing contestation (under review, *Behaviour & Information Technology*) — computational text analysis of worker discourse.
 - Ansari, B. & Barati, M. Employee participation and the effects of algorithmic management (under review, *Journal of Management Control*) — European Company Survey 2019.

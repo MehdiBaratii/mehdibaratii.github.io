@@ -82,12 +82,9 @@ Seven semesters of university teaching in databases, web technologies, and progr
 - **Barati, M.**, & Yankson, B. From surveillance to strategy: A hierarchical affordance framework for employee electronic monitoring technologies. *Cognition, Technology and Work*. **[ABS 2 / Scimago Q1]**
 - **Barati, M.**, Yankson, B., & Ansari, B. The surveillance dialectic: How workplace monitoring systems generate perpetual contestation. *Behaviour & Information Technology*. **[ABS 2]** — computational text analysis (LDA and BERTopic) and thematic analysis of 4,188 Reddit posts and 120,381 comments.
 - Ansari, B., & **Barati, M.** The moderating role of employee participation in the association of algorithmic management with organisational performance and workplace well-being: Findings from the European Company Survey 2019. *Journal of Management Control*. **[ABS 2]**
+- Ansari, B., & **Barati, M.** Gender inequality in generative AI use among public-sector workers: The role of emotional labour and occupational segregation across Europe. *Public Management Review*. **[ABS 4]** — drawing on the European Working Conditions Survey 2024 (36,644 workers, 35 countries) and AI occupational-exposure measures.
 
-### In advanced preparation
-
-- Ansari, B., & **Barati, M.** Gender inequality in generative AI use among public-sector workers: The role of emotional labour and occupational segregation across Europe. *Government Information Quarterly*. **[ABS 3 / Scimago Q1]** — drawing on the European Working Conditions Survey 2024 (36,644 workers, 35 countries) and AI occupational-exposure measures.
-
-*Seven peer-reviewed journal articles (three in Scimago Q1) and a Springer book chapter; four further papers under review or in advanced preparation. See [Google Scholar](https://scholar.google.com/citations?user=Ra3TodoAAAAJ&hl=en) for current citation metrics.*
+*Seven peer-reviewed journal articles (three in Scimago Q1) and a Springer book chapter; four further papers under review. See [Google Scholar](https://scholar.google.com/citations?user=Ra3TodoAAAAJ&hl=en) for current citation metrics.*
 
 ---
 
